@@ -20,5 +20,6 @@
 - git remote add origin https://github.com/aarosa3/Exercicio-aulas.git 
 - git remote -v (lista )
 - git push origin master (empura (upload) alterações)
+- rm (função del do prompt)
 - 
 

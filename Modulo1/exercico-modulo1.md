@@ -5,7 +5,8 @@
 ### 01/06/22
 
 - Inicialização Git :man_student:
-- Prof Otavio Reis
+
+  Prof Otavio Reis
 
 ### 04/06/22	
 

@@ -1,7 +1,40 @@
-#title, .subtitle, .post-title{
-    color:blue
+.img-cab {
+    border-radius: 50%;
+    border: 3px solid rgb(50, 46, 46);
 }
+
+#title {
+    font-size: 50px;
+    font-family: "sans-serif";
+}
+body {
+    background: gray;
+}
+
+#title, .subtitle, .post-title{
+    color:rgba(0, 0, 0, 0.726);
+}
+
 .post_title{
     font-size: 16px;
     font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post{
+    background: whitesmoke;
+    padding: 15px;
+    border: 3px solid black;
+    margin-bottom: 2px;
+    
+}
+
+.post-cont {
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.img-post {
+    margin: 15px;
 }

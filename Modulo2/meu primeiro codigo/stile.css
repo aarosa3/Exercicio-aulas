@@ -36,5 +36,6 @@ body {
 }
 
 .img-post {
-    margin: 15px;
+    margin: auto;
+    width: 98%;
 }

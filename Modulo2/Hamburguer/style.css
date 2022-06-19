@@ -20,7 +20,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    filter: grayscale(1);
+    filter: grayscale(2);
     color: black;
     cursor: pointer;
     transition: 0.3s;
